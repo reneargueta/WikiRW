@@ -1,3 +1,13 @@
+---
+title: wikijs-github-sync-guide
+description: 
+published: true
+date: 2026-09-16T15:55:30.979Z
+tags: 
+editor: markdown
+dateCreated: 2026-09-16T15:52:24.606Z
+---
+
 # Guide: Syncing Wiki.js with GitHub (Git-backed Storage)
 
 **Objective:** Configure Wiki.js to use a GitHub repository as its content storage (instead of relying solely on PostgreSQL), enabling versioning, commit-based history, and portable markdown content.
