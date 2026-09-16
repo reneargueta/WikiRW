@@ -2,7 +2,7 @@
 title: wikijs-github-sync-guide
 description: 
 published: true
-date: 2026-09-16T15:55:30.979Z
+date: 2026-09-16T20:42:48.677Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T15:52:24.606Z
